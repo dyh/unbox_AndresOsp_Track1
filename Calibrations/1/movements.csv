@@ -1,0 +1,6 @@
+movement,x1,y1,x2,y2,cross,direction
+1,250,192,320,296,True,True
+1,852,262,8,436,False,
+2,713,212,752,283,True,False
+3,424,394,1264,271,True,False
+4,500,410,500,610,True,False

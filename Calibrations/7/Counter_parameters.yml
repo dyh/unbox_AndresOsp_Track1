@@ -1,0 +1,24 @@
+detection_ROI_in: 0.2
+detection_max_area_val: 21000
+detection_min_area_val: 900
+detection_nms_thresh: 0.2
+detection_object_thresh: 0.45
+do_align: false
+do_reid: false
+inactive_patience: 0
+max_features_num: 1
+min_length_trajectory: 50
+motion_model:
+  center_only: true
+  enabled: true
+  n_steps: 1
+number_of_iterations: 100
+public_detections: false
+reid_iou_threshold: 0.01
+reid_sim_threshold: 0.4
+termination_eps: 1.0e-05
+tracks_ROI_in: 0.1
+tracks_min_area_val: 719
+tracks_nms_thresh: 0.5
+tracks_object_thresh: 1.0e-05
+warp_mode: cv2.MOTION_EUCLIDEAN
