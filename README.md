@@ -48,3 +48,9 @@ The effectiveness of an Intelligent transportation system (ITS) relies on the un
 ## Authors:
 * Andres OSPINA
 * Felipe TORRES
+
+## Used repositories
+We used code from the following repositories:
+
+* [Tracking without bells and whistles](https://github.com/phil-bergmann/tracking_wo_bnw)
+* [Longest Processing Time](https://github.com/sanathkumarbs/longest-processing-time-algorithm-lpt)

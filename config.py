@@ -25,7 +25,7 @@ config = {}
 config['gpus_available'] = [8,9,10,11,12,13,14,15]
 
 # parallel processes in the same GPU (reduce this if you run in memory problems) we use 2
-config['parallel_processes'] = 2
+config['parallel_processes'] = 1
 
 # how many images load per run
 config['batch_loader_size'] = 10
