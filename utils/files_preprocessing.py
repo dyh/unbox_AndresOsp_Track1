@@ -19,7 +19,7 @@ def read_info_files(paths):
     track1_vid_stats.reset_index(inplace=True)
 
     def generate_path(row):
-        return join(path_videos,row['name'], row['vid_name'])
+        return join(path_videos, row['vid_name'])
 
     track1_vid_stats['path'] = track1_vid_stats.apply(generate_path, axis=1)
     
