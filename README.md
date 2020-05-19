@@ -54,3 +54,7 @@ We used code from the following repositories:
 
 * [Tracking without bells and whistles](https://github.com/phil-bergmann/tracking_wo_bnw)
 * [Longest Processing Time](https://github.com/sanathkumarbs/longest-processing-time-algorithm-lpt)
+
+## License
+
+See [LICENSE](LICENSE). Please read before use.
