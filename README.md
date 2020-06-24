@@ -38,10 +38,12 @@ The effectiveness of an Intelligent transportation system (ITS) relies on the un
 
 ## Citation  
 ```
-@ARTICLE{ospinatorres2020,
-    author = {{Andres Ospina and Felipe Torres},
-    title = "{{AI} {C}ity {C}hallenge 2020 -- {C}ountor: count without bells and whistles}",
-    year = 2020,
+@InProceedings{Ospina_2020_CVPR_Workshops,
+author = {Ospina, Andres and Torres, Felipe},
+title = {Countor: Count Without Bells and Whistles},
+booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+month = {June},
+year = {2020}
 }
 ```
 
