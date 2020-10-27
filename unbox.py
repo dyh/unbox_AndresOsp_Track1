@@ -51,7 +51,7 @@ def main():
 
     # detect each frame
     for frame_index, video_data in enumerate(dali_iter):
-        print('detecting:', frame_index)
+        print('detecting:', (frame_index + 1) * config.get('batch_loader_size'))
 
         for image in video_data[0]['image']:
             image = image.permute((0, 3, 1, 2)).contiguous().float().div(255)
